@@ -1,0 +1,26 @@
+/* TransactionDetails.css */
+
+.transaction-details {
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    max-width: 400px;
+  }
+  
+  .transaction-details h1 {
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .detail-item {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .detail-item strong {
+    font-weight: bold;
+  }
+  
